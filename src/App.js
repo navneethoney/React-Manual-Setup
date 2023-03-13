@@ -3,7 +3,7 @@ const App = () => {
 
     return (
         <div>
-            <h1 style={{ color: 'red' }}>Hello, this app is created from scratch !!</h1>
+            <h1>Hello, this is a manually created React app without using "create-react-app"</h1>
         </div>
     )
 }
